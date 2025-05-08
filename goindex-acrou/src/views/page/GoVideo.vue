@@ -215,7 +215,7 @@ export default {
           scheme: "nplayer-" + this.videoUrl,
         },
         {
-          name: "MXPlayer(Free)",
+          name: "MXPlayer",
           icon: this.$cdnpath("images/player/mxplayer.png"),
           scheme:
             "intent:" +
@@ -225,7 +225,7 @@ export default {
             ";end",
         },
         {
-          name: "MXPlayer(Pro)",
+          name: "MXPlayer",
           icon: this.$cdnpath("images/player/mxplayer.png"),
           scheme:
             "intent:" +
