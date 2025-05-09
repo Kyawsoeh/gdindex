@@ -195,7 +195,7 @@ export default {
           scheme: "potplayer://" + this.videoUrl,
         },
         {
-          name: "VLC",
+          name: "VLC name",
           icon: this.$cdnpath("images/player/vlc.png"),
           scheme: "vlc://" + this.videoUrl,
         },
